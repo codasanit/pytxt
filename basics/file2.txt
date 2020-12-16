@@ -1,0 +1,1 @@
+This is a new text, which is going to written over the content of file2.txt
